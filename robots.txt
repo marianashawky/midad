@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Set SITE_URL in build_blog.py and rebuild to publish an absolute sitemap.
